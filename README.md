@@ -25,7 +25,7 @@
   <img align="center" alt="Osvaldo-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  </div>
   
- ##
+
 
 <div> 
   <a href="https://instagram.com/osvaldo_lucas_de.sousa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
